@@ -55,7 +55,7 @@ nav {
     margin: 0px;
 }
 .hero-text {
-    height: 30%;
+    height: 80%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -63,6 +63,7 @@ nav {
 
 h1 {
     font-size: 80px;
+    margin: 0 30px;
 }
 .hero-subtext {
     font-size: 30px;
