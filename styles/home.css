@@ -26,6 +26,9 @@ nav {
     transition: 0.25s;
     z-index: 1;
 }
+.nav-item {
+    transition: 0.5s;
+}
 .nav-item:hover {
     background-color: grey;
 }
@@ -34,12 +37,10 @@ nav {
     padding: 15px;
     color: white;
     text-decoration: none;
-    transition: 0.25s;
 }
 .menu-icon {
     color:white;
     font-size: 42px;
-    transition: 0.25s;
 }
 
 .jumbotron {
